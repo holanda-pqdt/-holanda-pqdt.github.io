@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Holanda!</h1>
+<h1 align="center"> Olá, eu sou o Holanda!</h1>
 
 <div align="center">
 
@@ -20,9 +20,9 @@
 
 </div>
 
-## 🛠️ Tecnologias que Estou Aprendendo
+##  Tecnologias que Estou Aprendendo
 
-### 💻 Linguagens de Programação
+###  Linguagens de Programação
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -43,7 +43,7 @@
 - **Python** 
 - **PHP** 
 
-## 📫 Como me encontrar
+##  Como me encontrar
 
 <div align="center">
 
