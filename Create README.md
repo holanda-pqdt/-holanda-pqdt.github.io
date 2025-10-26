@@ -5,11 +5,15 @@ Estudante de programação focado em Python e desenvolvimento web. Sempre aprend
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=holanda-pqtd&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=holanda-pqdt&show_icons=true&theme=radical&hide_border=true)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username==holanda-pqtd&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=holanda-pqdt&layout=compact&theme=radical&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user==holanda-pqtd&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=holanda-pqdt&theme=radical&hide_border=true)
+
+### 📈 Atividade Recente
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 🛠️ Tecnologias que Estou Aprendendo
 
