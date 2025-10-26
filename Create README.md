@@ -18,18 +18,26 @@ Estudante de programação focado em Python e desenvolvimento web. Sempre aprend
 ## 🛠️ Tecnologias que Estou Aprendendo
 
 ### 💻 Linguagens de Programação
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
 
 ### 🎯 Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
+</p>
 
 ## 📫 Como me encontrar
-- **GitHub**: [@SEU-USUARIO](https://github.com/holanda-pqdt)
-- **Linkedin**: [@Wiston da silva holanda](www.linkedin.com/in/wiston-da-silva-holanda-7936bb265)
+- **GitHub**: [@holanda-pqdt](https://github.com/holanda-pqdt)
+- **GitHub**: [@wiston da silva holanda](www.linkedin.com/in/wiston-da-silva-holanda-7936bb265)
+
 ---
 
+**🔄 Última atualização:** Esta página atualiza automaticamente todos os dias às 6h!
+
+⭐️ *As estatísticas acima são em tempo real!*
