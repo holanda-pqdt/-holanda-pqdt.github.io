@@ -1,0 +1,47 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Executa todo dia às 6h UTC
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Generate GitHub Stats
+        uses: jstrieb/github-stats@latest
+        with:
+          filename: README.md
+          stars: true
+          commits: true
+          views: true
+          languages: true
+            
+      - name: Generate snake animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: output/github-contribution-grid-snake.svg
+          
+      - name: Deploy snake animation to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --staged --quiet || git commit -m "Update GitHub stats"
+          git push
